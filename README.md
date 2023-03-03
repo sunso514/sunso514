@@ -4,8 +4,7 @@
     <img align='mid' src="https://github-readme-stats.vercel.app/api?username=sunso514&show_icons=true&theme=radical" height="165">
     <img align='mid' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=false&theme=radical" height="165">
     <img align='mid' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunso514">
-    
-    </div>
+</div>
 
 <!--
 
