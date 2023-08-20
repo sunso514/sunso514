@@ -3,6 +3,7 @@
   <h1> ✨ DongHyun's Github✨ <h1/>
     <img align='mid' src="https://github-readme-stats.vercel.app/api?username=sunso514&show_icons=true&theme=radical" height="165">
     <img align='mid' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunso514">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunso514)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
